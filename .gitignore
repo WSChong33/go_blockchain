@@ -1,0 +1,13 @@
+# Go binary files
+*.exe
+*.out
+*.test
+*.prof
+
+# Go build cache
+/vendor/
+/bin/
+/pkg/
+
+# IDE-specific files (e.g., for VSCode)
+.vscode/
