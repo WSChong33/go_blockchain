@@ -7,7 +7,6 @@
 # Go build cache
 /vendor/
 /bin/
-/pkg/
 
 # IDE-specific files (e.g., for VSCode)
 .vscode/
